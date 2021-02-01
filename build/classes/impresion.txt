@@ -1,0 +1,11 @@
+==============================
+    TICKET DE TURNO - CAJA    
+ Num. Turno     : 2           
+ Vendedor       : olivia99    
+ TOTAL A PAGAR $: 60          
+ ✄  ==========================
+                              
+  TICKET DE TURNO - CLIENTE   
+ Num. Turno     : 2           
+ TOTAL A PAGAR $: 60          
+==============================
