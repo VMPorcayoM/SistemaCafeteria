@@ -12,7 +12,7 @@ public class Conector {
 
     static Connection connect = null;
     private static String user="root";
-    private static String pass="porcayo";
+    private static String pass="123";
     public static Connection conexion() {
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();
